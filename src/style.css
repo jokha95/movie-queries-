@@ -1,0 +1,23 @@
+body {
+  width: 100%;
+  max-width: 68rem;
+  margin: 8;
+  font: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #dfe7ba;
+  color: #ac1010;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  text-align: center;
+
+}
+.genre {
+  background: transparent;
+  border-style: solid;
+  border-width: 4px 4px 4px 4px;
+  border-color: white;
+  border-radius: 0rem;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  text-align: center;
+  background-color: #94d3f0;
+
+}
